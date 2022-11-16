@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.gitattributes
+
+# Other
+.spyproject/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+.vscode
+docs/_build/
+docs/_work/
+docs/Assignments/Lab15_IRCalibLeft.png
+docs/Assignments/Lab15_IRCalibLeft.png
+docs/Assignments/Lab15_IRCalibLeft.png
+docs/Assignments/Lab15_IRCalibLeft.png
+docs/Assignments/Lab15_IRCalibLeft.png
+docs/Assignments/Lab15_IRCalibLeft.png

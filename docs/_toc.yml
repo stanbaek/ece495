@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Course Info
+  chapters:
+  - file: syllabus.md
+  - file: resources.md
+  - file: faq.md
+
+- caption: Lessons
+  chapters:
+  - file: lessons/block1
+    sections:
+    - file: lessons/markdown1
+    - file: lessons/markdown2
